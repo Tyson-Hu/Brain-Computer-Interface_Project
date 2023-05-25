@@ -21,7 +21,7 @@ This code follows the GNU General Public License v3.0. For more information, che
 
 ### Contents
 - [Implementation Report](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI_Implementation_Report.pdf)
-- [User Maual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
+- [User Manual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
 - [PCB Schematics](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/PCB_schematics.pdf)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
 
