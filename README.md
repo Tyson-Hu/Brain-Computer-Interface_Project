@@ -12,7 +12,7 @@ ADS1194 driver code are modified based on the repository from [ADS119X](https://
 This code follows the GNU General Public License v3.0. For more information, check the LICENSE file. 
 
 ### Contents
-- [Implementation Report]()
+- [Implementation Report](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI_Implementation_Report.pdf)
 - [User Maual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
 
