@@ -29,7 +29,8 @@ This code follows the GNU General Public License v3.0. For more information, che
 | PCB Board* | $TBD/ea | 1 | $TBD |
 | [Conductive Paste](https://shop.openbci.com/collections/frontpage/products/ten20-conductive-paste-8oz-jar) | $19.99/ea | 1 | $19.99 |
 | [Electrodes](https://shop.openbci.com/products/openbci-gold-cup-electrodes) | $44.99/ea | 2 | $89.98 |
-||| Total:| $201.16+ |
+||| Total:| $201.16+ |     
+
 **Item that not used on our prototye-board.*
 
 ### References
