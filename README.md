@@ -1,3 +1,5 @@
+<img align="right" src="https://www-student.cse.buffalo.edu/img/Department-of-Computer-Science-and-Engineering.png" alt="UB" width="310">
+
 # Brain-Computer-Interface_Project
 <a href="https://github.com/Mother-FKR/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey/issues"> <img src="https://img.shields.io/github/issues/Tyson-Hu/Brain-Computer-Interface_Project"/> </a>
 <a href="https://github.com/Mother-FKR/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey/blob/master/LICENSE"> <img src="https://img.shields.io/github/license/Tyson-Hu/Brain-Computer-Interface_Project"/> </a>
