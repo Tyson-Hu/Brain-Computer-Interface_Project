@@ -11,6 +11,14 @@ This is a UB senior capstone implementation from course CSE453 at University at 
 ADS1194 driver code are modified based on the repository from [ADS119X](https://github.com/chepo92/ADS119X) by [chepo92](https://github.com/chepo92).      
 This code follows the GNU General Public License v3.0. For more information, check the LICENSE file. 
 
+### Staff
+- Client: Dr. Wenyao Xu, wenyaoxu@buffalo.edu
+- Mentor: Prof. Kris Schindler, kds@buffalo.edu
+- Work Group
+  - Tianzhe Hu (Tyson), tianzheh@buffalo.edu
+  - Zihan Lin, zlin29@buffalo.edu
+  - Andrew Schaefer, schaefe2@buffalo.edu
+
 ### Contents
 - [Implementation Report]()
 - [User Maual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
