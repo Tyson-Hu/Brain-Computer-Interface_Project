@@ -1,6 +1,6 @@
 <a href="https://engineering.buffalo.edu/computer-science-engineering.html"><img align="right" src="https://www-student.cse.buffalo.edu/img/Department-of-Computer-Science-and-Engineering.png" alt="UB" width="310"></a>
 
-# Brain-Computer-Interface_Project
+# Brain-Computer-Interface Project
 <a href="https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/issues"> <img src="https://img.shields.io/github/issues/Tyson-Hu/Brain-Computer-Interface_Project"/> </a>
 <a href="https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/LICENSE"> <img src="https://img.shields.io/github/license/Tyson-Hu/Brain-Computer-Interface_Project"/> </a>
 <a href="https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/commits/master"> <img src="https://img.shields.io/github/last-commit/Tyson-Hu/Brain-Computer-Interface_Project"/> </a>
