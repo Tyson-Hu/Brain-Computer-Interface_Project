@@ -21,10 +21,11 @@ This code follows the GNU General Public License v3.0. For more information, che
 
 ### Contents
 - [Implementation Report](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI_Implementation_Report.pdf)
-- [User Manual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
+- [User Manual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI_Prototype_User_Manual.pdf)
 - [PCB Schematics](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/PCB_schematics.pdf) 
 - [Presentation Slide](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Presentation.pptx)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
+- [Design Document[Deprecated]](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Project_Requirement_and_Design[DEPRECATED].pdf)
 
 ### Required Software
 - [Arduino IDE](https://www.arduino.cc/en/software): Compile & Program ADS1194 driver code
