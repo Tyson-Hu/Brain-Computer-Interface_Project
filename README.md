@@ -13,7 +13,7 @@ This code follows the GNU General Public License v3.0. For more information, che
 
 ### Contents
 - [Implementation Report]()
-- [User Maual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
+- [User Maual](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/BCI%20Prototype%20User%20Manual.pdf)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
 
 ### Bill of Materials 
