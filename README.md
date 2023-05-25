@@ -25,7 +25,7 @@ This code follows the GNU General Public License v3.0. For more information, che
 - [PCB Schematics](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/PCB_schematics.pdf) 
 - [Presentation Slide](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Presentation.pptx)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
-- [Design Document[Deprecated]](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Project_Requirement_and_Design[DEPRECATED].pdf)
+- [Design Document[Deprecated]](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Project_Requirement_and_Design%5BDEPRECATED%5D.pdf)
 
 ### Required Software
 - [Arduino IDE](https://www.arduino.cc/en/software): Compile & Program ADS1194 driver code
