@@ -25,6 +25,10 @@ This code follows the GNU General Public License v3.0. For more information, che
 - [PCB Schematics](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/PCB_schematics.pdf)
 - [Introduction Video](https://github.com/Tyson-Hu/Brain-Computer-Interface_Project/blob/master/Doc/Introduction_video.mp4)
 
+### Required Software
+- [Arduino IDE](https://www.arduino.cc/en/software): Compile & Program ADS1194 driver code
+- [Waveforms](https://digilent.com/reference/software/waveforms/waveforms-3/start): Software for Analog Discovery 2 that used to generate waveforms
+
 ### Bill of Materials 
 | Item | Unit Price | Quantity | Cost |
 | ---- | ---- | ---- | ---- |
