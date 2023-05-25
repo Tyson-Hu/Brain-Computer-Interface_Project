@@ -19,17 +19,18 @@ This code follows the GNU General Public License v3.0. For more information, che
 ### Bill of Materials 
 | Item | Unit Price | Quantity | Cost |
 | ---- | ---- | ---- | ---- |
-| Microprocessor | $5.66/ea | 1 | $5.66 |
-| Analog Digital Converter (ADC) | $13.96/ea | 4 | $55.84 |
-| BlueTooth Module | $29.99/ea | 1 | $29.99 |
-| Voltage Regulator | $0.70/ea | 1 | $0.70 |
-| Lithium Ion Polymer Battery | $7.95/ea | 1 | $7.95 |
-| Capacitors | $TBD/ea | TBD | $TBD |
-| Resistors | $TBD/ea | TBD | $TBD |
-| PCB Board | $TBD/ea | 1 | $TBD |
-| Conductive Paste | $19.99/ea | 1 | $19.99 |
-| Electrodes | $44.99/ea | 2 | $89.98 |
-||| Total:| $247.06+ |
+| [Microprocessor](https://www.digikey.com/en/products/detail/microchip-technology/ATMEGA328P-PU/1914589) | $4.66/ea | 1 | $4.66 |
+| [Analog Digital Converter (ADC)](https://www.digikey.com/en/products/detail/texas-instruments/ADS1194CPAG/2440834) | $13.96/ea | 4 | $55.84 |
+| [BlueTooth Module](https://www.digikey.com/en/products/detail/digilent,-inc./410-214/3902828) | $29.99/ea | 1 | $29.99 |
+| [Voltage Regulator*](https://www.mouser.com/ProductDetail/Texas-Instruments/LP5907MFX-3.3-NOPB?qs=biyDIajrTn6NhrJCoL%2FdSQ%3D%3D) | $0.70/ea | 1 | $0.70 |
+| [Lithium Ion Polymer Battery*](https://www.adafruit.com/product/1578) | $7.95/ea | 1 | $7.95 |
+| Capacitors | $TBD/ea | 11+ | $TBD |
+| Resistors | $TBD/ea | 1+ | $TBD |
+| PCB Board* | $TBD/ea | 1 | $TBD |
+| [Conductive Paste](https://shop.openbci.com/collections/frontpage/products/ten20-conductive-paste-8oz-jar) | $19.99/ea | 1 | $19.99 |
+| [Electrodes](https://shop.openbci.com/products/openbci-gold-cup-electrodes) | $44.99/ea | 2 | $89.98 |
+||| Total:| $201.16+ |
+**Item that not used on our prototye-board.*
 
 ### References
 - chepo92. (n.d.). Chepo92/ADS119X: Texas Instrument ADS119X ADC converter library compatible with Arduino Ide. GitHub. https://github.com/chepo92/ADS119X 
